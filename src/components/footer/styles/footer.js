@@ -19,7 +19,7 @@ export const Wrapper = styled.div`
 `
 
 export const MobileView = styled.div`
-    @media (min-width: 1000px) {
+    @media (min-width: 1001px) {
         display: none;
     }
 `
