@@ -33,13 +33,13 @@ export function FooterContainer() {
                 <Footer.Row>
                 <Footer.Column>
                     <Footer.Title>Urgent Contacts</Footer.Title>
-                    <Footer.Link href="#">Employee Assistance Counseling: 1-202-323-5244</Footer.Link>
-                    <Footer.Link href="#">Equal Employment (EEO) Counseling: 1-202-323-0911</Footer.Link>
-                    <Footer.Link href="#">Grief & Critical Incident Support: 1-202-324-5244</Footer.Link>
-                    <Footer.Link href="#">Ombudsman: 1-202-324-5152</Footer.Link>
-                    <Footer.Link href="#">Sexual Harassment Hotline: 1-202-324-7777</Footer.Link>
-                    <Footer.Link href="#">Suicide Prevention Hotline: 1-800-273-8255</Footer.Link>
-                    <Footer.Link href="#">Work4Life Program: 1-866-810-6118</Footer.Link>
+                    <Footer.Link href="#">Employee Assistance Counseling:<br/> 1-202-323-5244</Footer.Link>
+                    <Footer.Link href="#">Equal Employment (EEO) Counseling:<br/> 1-202-323-0911</Footer.Link>
+                    <Footer.Link href="#">Grief & Critical Incident Support:<br/> 1-202-324-5244</Footer.Link>
+                    <Footer.Link href="#">Ombudsman:<br/> 1-202-324-5152</Footer.Link>
+                    <Footer.Link href="#">Sexual Harassment Hotline:<br/> 1-202-324-7777</Footer.Link>
+                    <Footer.Link href="#">Suicide Prevention Hotline:<br/> 1-800-273-8255</Footer.Link>
+                    <Footer.Link href="#">Work4Life Program:<br/> 1-866-810-6118</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
                     <Footer.Title>For Career Development</Footer.Title>
